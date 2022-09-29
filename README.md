@@ -1,3 +1,3 @@
 # velvabears!
-An awesome company profile website of susiisoniic.
-#susiisoniic
+An awesome company profile website of sussiisoniic.
+#sussiisoniic
